@@ -1,1 +1,1 @@
-# R_Statistically rainforced machine learning
+# R_Statistically reinforced machine learning
